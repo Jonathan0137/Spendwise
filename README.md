@@ -1,4 +1,5 @@
 # Project SpendWise
+- Spendwise is a free to use budgeting web application that allows you to connect all your financial accounts into one digital space. Spendwise will provide interactive Dashboard that helps you to keep track of your spending and suggests budgeting goals based on your spendings and more.
 
 ## Table of Contents
 
@@ -19,10 +20,6 @@
     - [Sean Lau Kuang Qi](#sean-lau-kuang-qi)
   - [Video Demo](#video-demo)
   - [Deployment](#deployed-website)
-
-## Project Description
-
-- Spendwise is a free to use budgeting web application that allows you to connect all your financial accounts into one digital space. Spendwise will provide interactive Dashboard that helps you to keep track of your spending and suggests budgeting goals based on your spendings and more.
 
 ## Overview
 
